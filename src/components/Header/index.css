@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li {
+  margin-left: 30px;
+}
